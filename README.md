@@ -2,7 +2,7 @@
 This repository includes the code for the data cleaning and analytics used in my master's thesis. Data is not included due to privacy.
 
 ## Data
-- Cisco Meraki data was utilized for this work, including web application usage in terms of hours, days, and months. 
+- Cisco Meraki data was utilized for this work, including web application usage in terms of hours, days, months, and years. 
 
 ## Abstract
 
